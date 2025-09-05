@@ -2,6 +2,6 @@
 
 int main(void){
 
-    puts("hello!");
-    
+    puts("avemujica kiseki wo nijijouni");
+
 }// end main
