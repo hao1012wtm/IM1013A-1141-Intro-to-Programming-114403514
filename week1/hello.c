@@ -2,6 +2,6 @@
 
 int main(void){
 
-    puts("avemujica kiseki wo nijijouni");
+    puts("avemujica_kiseki_wo_nijijouni");
 
 }// end main
