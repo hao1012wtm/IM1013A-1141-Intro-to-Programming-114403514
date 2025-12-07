@@ -16,7 +16,7 @@ void printArray(int size, int array[size]){
             printf(",");
         }
     }
-    printf("]\n");
+    printf("}\n");
 
 }
 void randomizeArray(int size, int array[size]){
